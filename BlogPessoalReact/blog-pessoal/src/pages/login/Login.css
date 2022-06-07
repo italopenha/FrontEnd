@@ -1,0 +1,32 @@
+.entrar{
+    font-weight: bold !important;
+    color: #371B58 !important;
+}
+
+.btn-logar {
+    background-color: #4C3575 !important;
+    color: white !important;
+}
+
+.nao-tem-conta {
+    font-weight: bold !important;
+    color: #371B58 !important;
+}
+
+.cadastre-se {
+    font-weight: bold !important;
+    color: #371B58 !important;
+}
+
+.imagem-caderno {
+    background-Image: url(https://i.imgur.com/d5bMdDJ.jpg);
+    background-Repeat: no-repeat;
+    width: 100vh; 
+    min-Height: 100vh; 
+    background-Size: cover; 
+    background-Position: center;
+}
+
+.text-decoration-none {
+    text-decoration: none;
+}

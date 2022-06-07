@@ -1,0 +1,10 @@
+.cursor{
+    cursor: pointer;
+}
+
+.btn-nova-postagem{
+    border-color: white !important;
+    background-color: white !important;
+    color: #371B58 !important;
+    font-weight: bold !important;
+}

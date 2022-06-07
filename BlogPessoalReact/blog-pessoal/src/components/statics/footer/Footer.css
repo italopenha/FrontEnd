@@ -1,18 +1,23 @@
-.box1 {
+.redes-sociais {
     background-Color: #371B58; 
-    height: 120px;
 }
 
-.box2 {
+.txt-redes-sociais {
+    color: white;
+}
+
+.generation-back {
     background-Color: #4C3575;
     height: 60px;
 }
 
-.redes {
+.icones-redes-sociais {
     font-Size: 60 !important;
     color: white;
 }
 
-.textos {
+.generation-brasil {
     color: white;
+    text-decoration: none;
 }
+

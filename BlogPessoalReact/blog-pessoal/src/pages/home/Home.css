@@ -1,0 +1,19 @@
+.fundo {
+    background-color: #4C3575;
+}
+
+.txt3 {
+    color: white !important;
+    font-Weight: bold !important;
+}
+
+.btn-postagens {
+   background-color: white !important;
+   color: #371B58   !important;
+   font-weight: bold !important;
+}
+
+.img-home {
+    width: 500px;
+    height: 500px;
+}

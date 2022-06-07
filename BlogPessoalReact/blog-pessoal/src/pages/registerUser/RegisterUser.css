@@ -1,0 +1,27 @@
+.imagem2 {
+    background-Image: url(https://i.imgur.com/d5bMdDJ.jpg);
+    background-Repeat: no-repeat;
+    width: 100vh; 
+    min-Height: 100vh; 
+    background-Size: cover; 
+    background-Position: center;
+}
+
+.cadastrar{
+    color: #371B58 !important;
+    font-weight: bold !important;
+}
+
+.btnCancelar {
+    background-color: red !important;
+    color: white !important;
+    font-weight: bold !important;
+    margin-right: 20px !important;
+}
+
+.btnCadastrar {
+    background-color: #4C3575 !important;
+    color: white !important;
+    font-weight: bold !important;
+    margin-right: 20px !important;
+}
